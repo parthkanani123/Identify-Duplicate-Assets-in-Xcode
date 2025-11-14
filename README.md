@@ -44,7 +44,8 @@ python3 find_xcassets_duplicates_cross_only_collapsed_scales.py
 When you run the script, you’ll be prompted for two inputs:
 
 ```bash
-Enter the root directory of your Xcode project (containing .xcassets):
+Enter the root directory of your Xcode project (if you dont want to give entire repo access - club
+all .xcassets folder to new folder and give access of new folder):
 > /Users/username/Projects/MyiOSApp
 ```
 
