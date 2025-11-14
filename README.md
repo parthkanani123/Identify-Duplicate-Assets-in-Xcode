@@ -23,7 +23,7 @@ pip install pillow
 
 ### How to Use
 
-Clone the repository:
+Clone the repository Or download .py file:
 
 ```bash
 git clone https://github.com/yourusername/xcassets-duplicate-finder.git
